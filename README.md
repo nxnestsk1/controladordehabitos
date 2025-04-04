@@ -1,50 +1,64 @@
-# Welcome to your Expo app 👋
+# 📌 Habit Tracker - Controlador de Hábitos
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## 📖 Sobre o Projeto
+O **Habit Tracker** é uma aplicação desenvolvida com **Expo Go** para ajudar os usuários a criar, gerenciar e acompanhar seus hábitos diários. Além do rastreamento de hábitos, a aplicação também exibe exercícios físicos, dicas de saúde e desafios semanais para incentivar um estilo de vida mais saudável.
 
-## Get started
+---
 
-1. Install dependencies
+## 🚀 Funcionalidades
+✅ **Adicionar, Editar e Deletar Hábitos**: Crie e gerencie os seus hábitos com facilidade.  
+✅ **Rastreamento Diário**: Marque os hábitos como concluídos a cada dia.  
+✅ **Exibição de Exercícios Físicos**: Acesse uma lista de exercícios recomendados.  
+✅ **Dicas de Saúde**: Receba sugestões para melhorar sua qualidade de vida.  
+✅ **Desafios da Semana**: Participe de desafios semanais para manter a motivação.   
+✅ **Categorias e Personalização**: Organize seus hábitos por categoria e personalize cores e ícones.  
 
-   ```bash
-   npm install
-   ```
+---
 
-2. Start the app
+## 🛠️ Tecnologias Utilizadas
+- **Framework**: Expo Go / React Native
+- **Gerenciamento de Estado**: Redux / Context API
+- **Notificações**: Expo Notifications
 
-   ```bash
-    npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
+## 📦 Como Executar o Projeto
+### 1️⃣ Clone o repositório
+```sh
+git clone https://github.com/seu-usuario/habit-tracker.git
+cd habit-tracker
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+### 2️⃣ Instale as dependências
+```sh
+npm install
+```
 
-## Learn more
+### 3️⃣ Inicie o projeto no Expo Go
+```sh
+npx expo start
+```
+Escaneie o QR code no aplicativo **Expo Go** para rodar no seu dispositivo móvel.
 
-To learn more about developing your project with Expo, look at the following resources:
+---
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## 📌 Contribuindo
+1. **Fork** este repositório.
+2. Crie uma nova branch: `git checkout -b minha-feature`
+3. Faça suas alterações e **commit**: `git commit -m 'Minha nova feature'`
+4. Envie as alterações: `git push origin minha-feature`
+5. Abra um **Pull Request** 🚀
 
-## Join the community
+---
 
-Join our community of developers creating universal apps.
+## 📄 Licença
+Este projeto está sob a licença MIT. Sinta-se livre para utilizá-lo e contribuir! 📝
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
+
+## 📩 Contato
+📧 Email: rodrigo.nunes@my.istec.pt e dinis.santos@my.istec.pt
+🐙 GitHub: nxnestsk1 e Dinisls
+
+
+
